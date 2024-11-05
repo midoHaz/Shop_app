@@ -16,7 +16,7 @@ class ShopApp extends StatelessWidget {
         builder: (context, child) {
           return MaterialApp(
             debugShowCheckedModeBanner: false,
-            title: 'First Method',
+            title: 'First version of Shop App',
             theme: ThemeData(
               primaryColor: ColorManager.mainBlue,
               scaffoldBackgroundColor: Colors.white,
