@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/core/helpers/spacing';
+import 'package:shop_app/core/helpers/spacing.dart';
 import 'package:shop_app/features/on_boarding/data/on_boarding_model.dart';
 import 'package:shop_app/features/on_boarding/ui/widgets/on_boarding_banner.dart';
 import 'package:shop_app/features/on_boarding/ui/widgets/on_boarding_image.dart';
