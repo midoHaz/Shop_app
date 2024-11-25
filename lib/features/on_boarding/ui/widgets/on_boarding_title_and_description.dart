@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:shop_app/core/helpers/spacing';
+import 'package:shop_app/core/helpers/spacing.dart';
 import 'package:shop_app/core/theming/styles.dart';
 
 class OnBoardingTitleAndDescription extends StatelessWidget {

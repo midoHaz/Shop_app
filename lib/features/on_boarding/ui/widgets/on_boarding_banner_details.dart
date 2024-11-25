@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:shop_app/core/helpers/spacing';
+import 'package:shop_app/core/helpers/spacing.dart';
 
 class OnBoardingBannerDetails extends StatelessWidget {
   final TextStyle bannerTitleStyle;
